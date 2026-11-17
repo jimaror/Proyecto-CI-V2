@@ -175,3 +175,4 @@ git switch --detach v1.0
 *Curso de Git y GitHub · 2026 · Hecho por Jimmy Javier Marquez Orozco con Git*
 
 Prueba de push directo
+Prueba regla activa
